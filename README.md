@@ -7,3 +7,6 @@ https://www.google.com/search?q=photosynthesis+efficiency https://www.sciencedir
 https://en.wikipedia.org/wiki/Photosynthetic_efficiency
 - https://en.wikipedia.org/wiki/Photosynthetically_active_radiation
 - https://en.wikipedia.org/wiki/Gibbs_free_energy
+
+## Quantum Chemistry
+- https://en.wikipedia.org/wiki/Non-photochemical_quenching
