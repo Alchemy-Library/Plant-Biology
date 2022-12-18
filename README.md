@@ -10,7 +10,10 @@ https://en.wikipedia.org/wiki/Photosynthetic_efficiency
 
 # Chlorophyll
 https://en.wikipedia.org/wiki/Chlorophyll
+
 ## BioChemistry
+- https://en.wikipedia.org/wiki/Chlorophyll_a
+- https://en.wikipedia.org/wiki/Chlorophyll_b
 
 ## Quantum Chemistry
 - https://en.wikipedia.org/wiki/Non-photochemical_quenching
